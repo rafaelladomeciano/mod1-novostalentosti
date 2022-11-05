@@ -1,0 +1,560 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch CalMediaAluno",
+            "request": "launch",
+            "mainClass": "CalMediaAluno",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Chaveador",
+            "request": "launch",
+            "mainClass": "Chaveador",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch CompararStrings",
+            "request": "launch",
+            "mainClass": "CompararStrings",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch DesafioDecisao",
+            "request": "launch",
+            "mainClass": "DesafioDecisao",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Entradas",
+            "request": "launch",
+            "mainClass": "Entradas",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploBlocoRepeticao",
+            "request": "launch",
+            "mainClass": "ExemploBlocoRepeticao",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploDecisao",
+            "request": "launch",
+            "mainClass": "ExemploDecisao",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploEstruturaDeDdos",
+            "request": "launch",
+            "mainClass": "ExemploEstruturaDeDdos",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploEstruturadeDados2",
+            "request": "launch",
+            "mainClass": "ExemploEstruturadeDados2",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploNumPrimitivos",
+            "request": "launch",
+            "mainClass": "ExemploNumPrimitivos",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploString",
+            "request": "launch",
+            "mainClass": "ExemploString",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio01",
+            "request": "launch",
+            "mainClass": "Exercicio01",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio02",
+            "request": "launch",
+            "mainClass": "Exercicio02",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio03",
+            "request": "launch",
+            "mainClass": "Exercicio03",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio04",
+            "request": "launch",
+            "mainClass": "Exercicio04",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio05",
+            "request": "launch",
+            "mainClass": "Exercicio05",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio06",
+            "request": "launch",
+            "mainClass": "Exercicio06",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio07",
+            "request": "launch",
+            "mainClass": "Exercicio07",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio08",
+            "request": "launch",
+            "mainClass": "Exercicio08",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio09",
+            "request": "launch",
+            "mainClass": "Exercicio09",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio10",
+            "request": "launch",
+            "mainClass": "Exercicio10",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio11",
+            "request": "launch",
+            "mainClass": "Exercicio11",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio12",
+            "request": "launch",
+            "mainClass": "Exercicio12",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio13",
+            "request": "launch",
+            "mainClass": "Exercicio13",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio14",
+            "request": "launch",
+            "mainClass": "Exercicio14",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio15",
+            "request": "launch",
+            "mainClass": "Exercicio15",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio16",
+            "request": "launch",
+            "mainClass": "Exercicio16",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio17",
+            "request": "launch",
+            "mainClass": "Exercicio17",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio18",
+            "request": "launch",
+            "mainClass": "Exercicio18",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio19",
+            "request": "launch",
+            "mainClass": "Exercicio19",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio20",
+            "request": "launch",
+            "mainClass": "Exercicio20",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio21",
+            "request": "launch",
+            "mainClass": "Exercicio21",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio22",
+            "request": "launch",
+            "mainClass": "Exercicio22",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio24",
+            "request": "launch",
+            "mainClass": "Exercicio24",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio25",
+            "request": "launch",
+            "mainClass": "Exercicio25",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio26",
+            "request": "launch",
+            "mainClass": "Exercicio26",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio27",
+            "request": "launch",
+            "mainClass": "Exercicio27",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio28",
+            "request": "launch",
+            "mainClass": "Exercicio28",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio29",
+            "request": "launch",
+            "mainClass": "Exercicio29",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio30",
+            "request": "launch",
+            "mainClass": "Exercicio30",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio31",
+            "request": "launch",
+            "mainClass": "Exercicio31",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio32",
+            "request": "launch",
+            "mainClass": "Exercicio32",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio33",
+            "request": "launch",
+            "mainClass": "Exercicio33",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio34",
+            "request": "launch",
+            "mainClass": "Exercicio34",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio35",
+            "request": "launch",
+            "mainClass": "Exercicio35",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio36",
+            "request": "launch",
+            "mainClass": "Exercicio36",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio37",
+            "request": "launch",
+            "mainClass": "Exercicio37",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio38",
+            "request": "launch",
+            "mainClass": "Exercicio38",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio39",
+            "request": "launch",
+            "mainClass": "Exercicio39",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio40",
+            "request": "launch",
+            "mainClass": "Exercicio40",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio41",
+            "request": "launch",
+            "mainClass": "Exercicio41",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio42",
+            "request": "launch",
+            "mainClass": "Exercicio42",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio43",
+            "request": "launch",
+            "mainClass": "Exercicio43",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio44",
+            "request": "launch",
+            "mainClass": "Exercicio44",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio45",
+            "request": "launch",
+            "mainClass": "Exercicio45",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio46",
+            "request": "launch",
+            "mainClass": "Exercicio46",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio47",
+            "request": "launch",
+            "mainClass": "Exercicio47",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio48",
+            "request": "launch",
+            "mainClass": "Exercicio48",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio50",
+            "request": "launch",
+            "mainClass": "Exercicio50",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio51",
+            "request": "launch",
+            "mainClass": "Exercicio51",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio52",
+            "request": "launch",
+            "mainClass": "Exercicio52",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio53",
+            "request": "launch",
+            "mainClass": "Exercicio53",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio55",
+            "request": "launch",
+            "mainClass": "Exercicio55",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio56",
+            "request": "launch",
+            "mainClass": "Exercicio56",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio57",
+            "request": "launch",
+            "mainClass": "Exercicio57",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio58",
+            "request": "launch",
+            "mainClass": "Exercicio58",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio59",
+            "request": "launch",
+            "mainClass": "Exercicio59",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio60",
+            "request": "launch",
+            "mainClass": "Exercicio60",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio61",
+            "request": "launch",
+            "mainClass": "Exercicio61",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio62",
+            "request": "launch",
+            "mainClass": "Exercicio62",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio63",
+            "request": "launch",
+            "mainClass": "Exercicio63",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio67",
+            "request": "launch",
+            "mainClass": "Exercicio67",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio68",
+            "request": "launch",
+            "mainClass": "Exercicio68",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio72",
+            "request": "launch",
+            "mainClass": "Exercicio72",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio73",
+            "request": "launch",
+            "mainClass": "Exercicio73",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaiorMenorNumero",
+            "request": "launch",
+            "mainClass": "MaiorMenorNumero",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch ParOuImpar",
+            "request": "launch",
+            "mainClass": "ParOuImpar",
+            "projectName": "src_d14b91df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sorteador",
+            "request": "launch",
+            "mainClass": "Sorteador",
+            "projectName": "src_d14b91df"
+        }
+    ]
+}
